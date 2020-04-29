@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = inteligentna_trawa
+
+[report]
+ignore_errors = True
